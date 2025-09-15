@@ -9,16 +9,16 @@ interface Brand {
 
 
 const brands: Brand[] = [
-    { id: 1, name: "Apple", logo: "https://via.placeholder.com/100x100?text=Apple" },
-    { id: 2, name: "Samsung", logo: "https://via.placeholder.com/100x100?text=Samsung" },
-    { id: 3, name: "Xiaomi", logo: "https://via.placeholder.com/100x100?text=Xiaomi" },
-    { id: 4, name: "Huawei", logo: "https://via.placeholder.com/100x100?text=Huawei" },
-    { id: 5, name: "Philips", logo: "https://via.placeholder.com/100x100?text=Philips" },
-    { id: 6, name: "Sony", logo: "https://via.placeholder.com/100x100?text=Sony" },
-    { id: 7, name: "Lenovo", logo: "https://via.placeholder.com/100x100?text=Lenovo" },
-    { id: 8, name: "Dyson", logo: "https://via.placeholder.com/100x100?text=Dyson" },
-    { id: 9, name: "JBL", logo: "https://via.placeholder.com/100x100?text=JBL" },
-    { id: 10, name: "Braun", logo: "https://via.placeholder.com/100x100?text=Braun" },
+    { id: 1, name: "Apple", logo: "https://ffo3gv1cf3ir.merlincdn.net/SiteAssets/Cihaz/promo/apple-logo.png?1757850864000" },
+    { id: 2, name: "Samsung", logo: "https://ffo3gv1cf3ir.merlincdn.net/SiteAssets/Cihaz/promo/samsung-logo.png?1757850864000" },
+    { id: 3, name: "Xiaomi", logo: "https://ffo3gv1cf3ir.merlincdn.net/SiteAssets/Cihaz/promo/mi-logo.png?1757850864000" },
+    { id: 4, name: "Huawei", logo: "https://ffo3gv1cf3ir.merlincdn.net/SiteAssets/Cihaz/promo/huawei-logo-2.png?1757850864000" },
+    { id: 5, name: "Philips", logo: "https://ffo3gv1cf3ir.merlincdn.net/SiteAssets/Cihaz/promo/philips-logo.png?1757850864000" },
+    { id: 6, name: "Sony", logo: "https://ffo3gv1cf3ir.merlincdn.net/SiteAssets/Cihaz/promo/sony-logo.png?1757850864000" },
+    { id: 7, name: "Lenovo", logo: "https://ffo3gv1cf3ir.merlincdn.net/SiteAssets/Cihaz/promo/lenovo-logo.png?1757850864000" },
+    { id: 8, name: "Dyson", logo: "https://ffo3gv1cf3ir.merlincdn.net/SiteAssets/Cihaz/promo/dyson-logo.png?1757850864000" },
+    { id: 9, name: "JBL", logo: "https://ffo3gv1cf3ir.merlincdn.net/SiteAssets/Cihaz/promo/jbl-logo.png?1757850864000" },
+    { id: 10, name: "Braun", logo: "https://ffo3gv1cf3ir.merlincdn.net/SiteAssets/Cihaz/promo/braun-logo.png?1757850864000" },
 ];
 export default function PopularBrands() {
     const scrollRef = useRef<HTMLDivElement>(null);

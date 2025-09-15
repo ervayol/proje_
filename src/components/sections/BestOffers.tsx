@@ -5,26 +5,26 @@ const products = [
   {
     id: "sac-kurutma-makinesi",
     name: "Saç Kurutma Makinesi",
-    price: "999 TL",
-    image: "https://picsum.photos/id/200/300/200",
+    price: "1.500 TL",
+    image: "https://ffo3gv1cf3ir.merlincdn.net//SiteAssets/pasaj/crop/cg/00R844/2025141443-00R844-1/2025141443-00R844-1_600x450.png?1757850864000",
   },
   {
     id: "laptop",
     name: "Laptop",
-    price: "14.999 TL",
-    image: "https://picsum.photos/id/201/300/200",
+    price: "46.400 TL",
+    image: "https://ffo3gv1cf3ir.merlincdn.net//SiteAssets/pasaj/crop/cg/00TIU6/20256181710-00TIU6-1/20256181710-00TIU6-1_600x450.png?1757850864000",
   },
   {
     id: "airpods",
     name: "AirPods",
-    price: "4.499 TL",
-    image: "https://picsum.photos/id/202/300/200",
+    price: "12.199 TL",
+    image: "https://ffo3gv1cf3ir.merlincdn.net//SiteAssets/Cihaz/aksesuar/Apple/airpods-pro/cg/1/1_600x450.png?1757850864000",
   },
   {
     id: "supurge",
     name: "Dikey Süpürge",
-    price: "3.299 TL",
-    image: "https://picsum.photos/id/203/300/200",
+    price: "19.999 TL",
+    image: "https://ffo3gv1cf3ir.merlincdn.net//SiteAssets/pasaj/crop/cg/00QJEG/202411131621-00QJEG-1/202411131621-00QJEG-1_600x450.png?1757850864000",
   },
 ];
 export default function BestOffers() {
